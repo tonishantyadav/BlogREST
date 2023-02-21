@@ -1,2 +1,2 @@
-# blog2.0
+# blogREST
 # Requirements
